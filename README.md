@@ -1,9 +1,9 @@
-The VRINDA Superstore project is a comprehensive data analysis and management system (31047 rows and 21columns) designed to track and analyze various aspects of sales and customer behavior within a retail environment. 
+The VRINDA Superstore project is a comprehensive data analysis and management system designed to track and analyze various aspects of sales and customer behavior within a retail environment. 
 The project involves organizing data across several columns to provide insights into customer demographics, purchasing patterns, and sales performance.
 
 With this dataset, various analyses can be performed, such as sales trends over time, popular product categories, customer demographics, geographic distribution of sales, and effectiveness of different sales channels. 
 This information can then be used to optimize inventory management, marketing strategies, and overall business operations to enhance profitability and customer satisfaction.
-Here I have used **Advanced Excel** to perform the analysis.
+The data has 31047 rows and 21columns and I have used **Advanced Excel** to perform the analysis.
 
 Vrinda Superstore Annual Report 2022 Insights:
 1. Women are more likely to purchase than men. (~69%)
